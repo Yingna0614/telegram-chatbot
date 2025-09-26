@@ -47,7 +47,7 @@ filestack_API_KEY = # Your Filestack API key
 # Map model names to the actual model IDs used in OpenRouter or other platforms
 def Model(name):
     mapping = {
-        "ds": "deepseek/deepseek-chat:free",  # Example: DeepSeek chat model
+        "ds": "deepseek/deepseek-chat:free",  # Example: DeepSeek chat model, change the model based on your needs
         "gpt4": "openai/gpt-4o-2024-11-20",   # GPT-4o model
     }
     return mapping.get(name)

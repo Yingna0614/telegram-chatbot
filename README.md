@@ -29,7 +29,7 @@ The following key functions are already implemented:
 - **Document Handling**: Upload and analyze PDF or Word documents.  
 - **Image Analysis**: Analyze images sent by users.  
 
-You can modify the code to fit your specific needs.  
+You can modify the code to fit your specific needs.  (see chatbot-code.py for more details)
  
 
 ## Step 4: Crawl Data from Telegram for analysis (Optional)
